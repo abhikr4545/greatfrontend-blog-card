@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/greatfrontend-blog-card/static/css/main.0b60ecb7.css",
+    "main.js": "/greatfrontend-blog-card/static/js/main.8cb07390.js",
+    "static/media/blog-img.jpg": "/greatfrontend-blog-card/static/media/blog-img.a4be3f5c2a3d3a0c0708.jpg",
+    "index.html": "/greatfrontend-blog-card/index.html",
+    "main.0b60ecb7.css.map": "/greatfrontend-blog-card/static/css/main.0b60ecb7.css.map",
+    "main.8cb07390.js.map": "/greatfrontend-blog-card/static/js/main.8cb07390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b60ecb7.css",
+    "static/js/main.8cb07390.js"
+  ]
+}
